@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "themeName": "Batman",
+      "themecolor": "#FF0000FF",
+      "appicon": "batman"
+    },
+    {
+      "themeName": "Superman",
+      "themecolor": "#FFFF0000",
+      "appicon": "superman"
+    },
+    {
+      "themeName": "Spiderman",
+      "themecolor": "#FFFF0000",
+      "appicon": "spiderman"
+    }
+  ]
+}

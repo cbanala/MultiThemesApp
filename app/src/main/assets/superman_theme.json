@@ -1,0 +1,144 @@
+[
+  {
+    "styleClass": "theme Color",
+    "properties": [
+      {
+        "propertyType": "color",
+        "propertyName": "colorPrimary",
+        "propertyValue": "#B71C1C",
+        "comment": "Used as theme color"
+      },
+      {
+        "propertyType": "color",
+        "propertyName": "colorPrimaryDark",
+        "propertyValue": "#B71C1C",
+        "comment": "Used as darkbackground replacement of theme"
+      },
+      {
+        "propertyType": "color",
+        "propertyName": "colorAccent",
+        "propertyValue": "#B71C1C",
+        "comment": "Used for widget accent color or background"
+      }
+    ]
+  },
+  {
+    "styleClass": "app Color",
+    "properties": []
+  },
+  {
+    "styleClass": "Theme Images",
+    "properties": [
+      {
+        "propertyType": "text",
+        "propertyName": "appLogo",
+        "propertyValue": "superman",
+        "comment": "used for app Icon"
+      }
+    ]
+  },
+  {
+    "styleClass": "Default Text Style",
+    "properties": [
+      {
+        "propertyType": "text",
+        "propertyName": "textColor",
+        "propertyValue": "#000000",
+        "comment": "used for text color"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "font",
+        "propertyValue": "sans-serif",
+        "comment": "font text style"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textSize",
+        "propertyValue": "16",
+        "comment": "text size in sp"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textStyle",
+        "propertyValue": "normal",
+        "comment": "type normal,bold,italic style types"
+      }
+    ]
+  },
+  {
+    "styleClass": "Text Large Style",
+    "properties": [
+      {
+        "propertyType": "text",
+        "propertyName": "textColor",
+        "propertyValue": "#000000",
+        "comment": "used for text color"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "font",
+        "propertyValue": "sans-serif",
+        "comment": "font text style"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textSize",
+        "propertyValue": "30",
+        "comment": "text size in sp"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textStyle",
+        "propertyValue": "normal",
+        "comment": "type normal,bold,italic style types"
+      }
+    ]
+  },
+  {
+    "styleClass": "Text Small Style",
+    "properties": [
+      {
+        "propertyType": "text",
+        "propertyName": "textColor",
+        "propertyValue": "#000000",
+        "comment": "used for text color"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "font",
+        "propertyValue": "sans-serif",
+        "comment": "font text style"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textSize",
+        "propertyValue": "8",
+        "comment": "text size in sp"
+      },
+      {
+        "propertyType": "text",
+        "propertyName": "textStyle",
+        "propertyValue": "normal",
+        "comment": "type normal,bold,italic style types"
+      }
+    ]
+  },
+  {
+    "styleClass": "Default Button Style",
+    "properties": [
+      {
+        "propertyType": "color",
+        "propertyName": "textColor",
+        "propertyValue": "#FFFFFF",
+        "comment": "UIButtonPropertySet"
+      },
+      {
+        "propertyType": "color",
+        "propertyName": "background",
+        "propertyValue": "#B71C1C",
+        "comment": "UIButtonPropertySet"
+      }
+    ]
+  }
+]
